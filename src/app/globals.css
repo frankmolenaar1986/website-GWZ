@@ -18,6 +18,7 @@ html {
 
 .content-container p {
     margin-bottom: 1.5rem;
+    text-align: justify;
 }
 
 .content-container p:first-of-type {
