@@ -11,6 +11,11 @@ html {
     margin-bottom: 1.5rem;
 }
 
+.content-container h2 {
+    font-size: 24pt;
+    font-weight: bold;
+}
+
 .content-container p {
     margin-bottom: 1.5rem;
 }
