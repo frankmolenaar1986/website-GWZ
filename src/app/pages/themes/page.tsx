@@ -3,7 +3,7 @@ import React from 'react'
 export default function Themes() {
     return (
         <>
-            <h1>Thema's Geïntegreerde Wijkzorg</h1>
+            <h1>Thema&apos;s Geïntegreerde Wijkzorg</h1>
 
             <h2>GWZ en bewegen</h2>
             <p>Voldoende bewegen wordt steeds meer als voorwaarde gezien voor een lichamelijk én geestelijk gezond leven. Ook voor de oudere thuiswonende cliënt is het belangrijk om voldoende, dat wil zeggen minimaal 150 minuten per week matig intensief en verdeeld over meerdere dagen, te bewegen. Meer bewegen vermindert de kans op functionele beperkingen en op vallen. Maar ook wordt de kans ermee vergroot om langer zelfredzaam te blijven. Daarnaast zijn van bewegen positieve invloeden/effecten bekend met betrekking op het risico van het ontstaan van cognitieve beperkingen en andere chronische aandoeningen, zoals darm- en borstkanker, osteoporose, diabetes en hart- en vaatziekten. Tot slot zorgt bewegen ervoor dat mensen beter en meer sociaal contact onderhouden (Bron: de Plus van Bewegen voor Ouderen, 2017). Voldoende bewegen zou dan ook een van de gezamenlijke zorgdoelen bij elke cliënt van een wijkzorgteam moeten zijn. Door de inzet van GWZ kan het formuleren en uitvoeren van het zorgdoel ‘Voldoende Bewegen’ voor elke cliënt worden gerealiseerd.</p>

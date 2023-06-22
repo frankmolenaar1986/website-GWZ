@@ -38,7 +38,7 @@ const Navbar = () => {
                             <li className="ml-10 uppercase hover:border-b text-xl">Gemeentes</li>
                         </Link>
                         <Link href="/pages/themes">
-                            <li className="ml-10 uppercase hover:border-b text-xl">Thema's</li>
+                            <li className="ml-10 uppercase hover:border-b text-xl">Thema&apos;s</li>
                         </Link>
                         <Link href="/pages/therapists">
                             <li className="ml-10 uppercase hover:border-b text-xl">Therapeuten</li>
@@ -82,7 +82,7 @@ const Navbar = () => {
                             </Link>
                             <Link href="/pages/organisations">
                                 <li onClick={() => setMenuOpen(false)} className="py-4 cursor-pointer">
-                                    Thema's
+                                    Thema&apos;s
                                 </li>
                             </Link>
                             <Link href="/pages/themes">
