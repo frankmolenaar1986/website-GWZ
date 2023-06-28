@@ -17,7 +17,7 @@ export default function About() {
                     height={500}
                     alt="Mieke Verberg portret"
                 />
-                <caption className="text-xs w-full">Mieke Verberg</caption>
+                <span className="text-xs w-full">Mieke Verberg</span>
             </div>
 
             <p>GWZ wordt gevormd door Janet Riezebos en Mieke Verberg. Van huis uit fysiotherapeut, maatschappelijk werker en oefentherapeut. We hebben zelf in het verleden jarenlang ervaring opgedaan met de meerwaarde van het geïntegreerd samenwerken bij cliënten thuis. Vanuit deze gevoelde meerwaarde zijn we al meer dan vijftien jaar bezig om deze vorm van samenwerken uit te dragen bij verschillende organisaties.</p>
@@ -32,7 +32,7 @@ export default function About() {
                     height={500}
                     alt="Janet Riezenbos portret"
                 />
-                <caption className="text-xs w-full">Janet Riezenbos</caption>
+                <span className="text-xs w-full">Janet Riezenbos</span>
             </div>
             <p>In Nederland is elke gemeente en elke wijk anders, met andere uitdagingen en kenmerken. Wilt u met ons vrijblijvend overleggen over wat er in uw wijk of gemeente mogelijk is op het gebied van multidisciplinair samenwerken? Neem contact met ons op. Wij denken graag met u mee!</p>
 
