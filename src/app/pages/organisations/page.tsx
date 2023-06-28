@@ -1,5 +1,5 @@
 import React from 'react'
-import banner from "../../../../public/banners/ouder-paar-met-rollator-in-paradepubliek.webp"
+import banner from "../../../../public/banners/ouder-paar-in-duinen.webp"
 import ImageHeader from "../../components/ImageHeader"
 
 export default function Organisations() {
