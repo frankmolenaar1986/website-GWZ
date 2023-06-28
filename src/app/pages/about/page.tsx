@@ -6,8 +6,6 @@ import Image from 'next/image'
 export default function About() {
     return (
         <>
-            <ImageHeader banner={banner} headerTitle="Over ons" />
-
             <h1>Wie zijn wij</h1>
 
             <div className="float-right ml-6 text-center">
