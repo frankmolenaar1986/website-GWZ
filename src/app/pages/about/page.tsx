@@ -12,7 +12,7 @@ export default function About() {
 
             <div className="float-right ml-6 text-center">
                 <Image
-                    src="/images/mieke.webp"
+                    src="/images/Mieke.webp"
                     width={500}
                     height={500}
                     alt="Mieke Verberg portret"
@@ -27,7 +27,7 @@ export default function About() {
 
             <div className="float-right ml-6 text-center">
                 <Image
-                    src="/images/janet.webp"
+                    src="/images/Janet.webp"
                     width={500}
                     height={500}
                     alt="Janet Riezenbos portret"
