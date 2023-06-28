@@ -1,6 +1,4 @@
 import React from 'react'
-import banner from "../../../../public/banners/ouder-paar-met-rollator-in-paradepubliek.webp"
-import ImageHeader from "../../components/ImageHeader"
 import Image from 'next/image'
 
 export default function About() {
