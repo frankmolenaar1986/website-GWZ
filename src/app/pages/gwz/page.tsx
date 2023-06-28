@@ -12,7 +12,7 @@ export default function GWZ() {
                     src="/images/schema.png"
                     width={500}
                     height={500}
-                    alt="Mieke Verberg portret"
+                    alt="GWZ Schema"
                 />
 
             </div>
