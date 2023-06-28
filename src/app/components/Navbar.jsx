@@ -29,25 +29,25 @@ const Navbar = () => {
                 <div className="hidden md:flex">
                     <ul className="hidden md:flex">
                         <Link href="/pages/about">
-                            <li className="ml-10 uppercase hover:border-b text-xl">Over ons</li>
+                            <li className="ml-10 uppercase hover:border-b">Over ons</li>
                         </Link>
                         <Link href="/pages/gwz">
-                            <li className="ml-10 uppercase hover:border-b text-xl">Geïntegreerde Wijkzorg</li>
+                            <li className="ml-10 uppercase hover:border-b">Geïntegreerde Wijkzorg</li>
                         </Link>
                         <Link href="/pages/municipalities">
-                            <li className="ml-10 uppercase hover:border-b text-xl">Gemeentes</li>
+                            <li className="ml-10 uppercase hover:border-b">gemeenten</li>
                         </Link>
                         <Link href="/pages/themes">
-                            <li className="ml-10 uppercase hover:border-b text-xl">Thema&apos;s</li>
+                            <li className="ml-10 uppercase hover:border-b">Thema&apos;s</li>
                         </Link>
                         <Link href="/pages/therapists">
-                            <li className="ml-10 uppercase hover:border-b text-xl">Therapeuten</li>
+                            <li className="ml-10 uppercase hover:border-b">Therapeuten</li>
                         </Link>
                         <Link href="/pages/wayofwork">
-                            <li className="ml-10 uppercase hover:border-b text-xl">Werkwijze</li>
+                            <li className="ml-10 uppercase hover:border-b">Werkwijze</li>
                         </Link>
                         <Link href="/pages/organisations">
-                            <li className="ml-10 uppercase hover:border-b text-xl">Wijkzorgorganisaties</li>
+                            <li className="ml-10 uppercase hover:border-b">Wijkzorgorganisaties</li>
                         </Link>
                     </ul>
                 </div>
@@ -77,7 +77,7 @@ const Navbar = () => {
                             </Link>
                             <Link href="/pages/municipalities">
                                 <li onClick={() => setMenuOpen(false)} className="py-4 cursor-pointer">
-                                    Gemeentes
+                                    gemeenten
                                 </li>
                             </Link>
                             <Link href="/pages/organisations">

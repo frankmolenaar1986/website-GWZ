@@ -1,9 +1,12 @@
 import React from 'react'
+import banner from "../../../../public/banners/ouder-paar-met-rollator-in-paradepubliek.webp"
+import ImageHeader from "../../components/ImageHeader"
 
 export default function Organisations() {
     return (
         <>
-            <h1>Voor wijkzorgorganisaties</h1>
+            <ImageHeader banner={banner} headerTitle="Voor wijkzorgorganisaties" />
+
             <p>GWZ gaat uit van een eenvoudig en werkbaar organisatiemodel, dat bestaat uit een kern van drie belangrijke zorgpartners in de thuissituatie. Bij cliënten in de wijkzorg zijn de drie generalistische disciplines binnen de GWZ-samenwerking de wijkverpleging, fysio- of oefentherapie en ergotherapie. De GWZ-samenwerking richt zich hierbij vooral op
                 <ul>
                     <li>cliënten met chronische aandoeningen, waarbij het belangrijk is om de belastbaarheid van deze cliënten optimaal te houden;</li>

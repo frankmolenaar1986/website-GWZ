@@ -1,7 +1,10 @@
+import banner from "../../public/banners/man-met-rollator-weideweg.webp"
+import ImageHeader from "./components/ImageHeader"
 
 export default function Home() {
   return (
     <>
+      <ImageHeader banner={banner} headerTitle="GWZ Home" />
       <h1>Welkom op de homepage van GWZ</h1>
       <p>In de eerste lijn is samenwerking niet eenvoudig of vanzelfsprekend. Wij begeleiden al meer dan tien jaar teams en organisaties bij het tot stand brengen van Geïntegreerde WijkZorg (GWZ). </p>
       <p>Het doel van GWZ is het behouden én vergroten van de zelfredzaamheid van cliënten zodat deze zo lang mogelijk, veilig en gelukkig in de eigen vertrouwde omgeving kunnen wonen. GWZ is netwerkzorg rondom thuiswonende (kwetsbare) ouderen, chronisch zieken en terminale cliënten, waarbij de cliëntsituatie centraal staat in de organisatie van de samenwerking. </p>

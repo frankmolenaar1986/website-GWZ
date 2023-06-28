@@ -1,9 +1,12 @@
 import React from 'react'
+import banner from "../../../../public/banners/vrouw-met-rollator-op-brug.webp"
+import ImageHeader from "../../components/ImageHeader"
 
 export default function WayOfWork() {
     return (
         <>
-            <h1>Werkwijze GWZ</h1>
+            <ImageHeader banner={banner} headerTitle="Werkwijze GWZ" />
+
             <p>Het samenwerkingsmodel van GWZ is eenvoudig en daardoor heel effectief. GWZ-teams kunnen, zo wijst de praktijk uit, 80% van de zorgvragen in de thuissituatie zelf oppakken. De drie betrokken partijen hebben samen voldoende kennis en netwerk om, in die gevallen waar dat nodig is, de expertise van andere disciplines erbij te vragen. Daardoor kan de samenwerking voor alle mogelijke zorgsituaties en -problemen ingezet worden, maar blijft de eenvoud van de basisstructuur bestaan.</p>
             <p>GWZ kent geen vaste overlegstructuren. Bij het opzetten van de GWZ-samenwerking worden door de samenwerkingspartners afspraken gemaakt over communicatie en overleg, met elkaar, met de huisarts en met andere samenwerkingspartners. Vroegsignalering, multidisciplinaire netwerkzorg en goede evaluatie zijn aspecten die essentieel zijn om van preventie een vanzelfsprekend onderdeel van het werken in de wijk te maken. Iedere gemeente, wijk of regio heeft zijn eigen kenmerken en daarom bieden GWZ-teams altijd maatwerk. </p>
             <p>Het is belangrijk dat vanuit verschillende kanten vroegsignalering kan worden gedaan, bijvoorbeeld vanuit de thuiszorg, de wijkverpleging, de huisartsenpraktijken of de betrokken medewerkers van de gemeente. Wij trainen de bovengenoemde professionals in deze vroegsignalering. Daarbij hoort ook dat ze weten wat ze kunnen doen met hun observatie en hoe vervolgens de GWZ-samenwerking gaat functioneren. Wanneer een thuiszorgmedewerker signaleert dat iemand de laatste tijd wat wankel door het huis loopt en dat doorgeeft, kan er op tijd gestart worden met functioneel trainen. Dat is pas echte (val)preventie.</p>
